@@ -1,2 +1,2 @@
 # sony korea clone coding
-https://ggulpodo.github.io/sony/
+https://bbielo.github.io/sony/
